@@ -1,2 +1,4 @@
 #!/bin/bash
-ls -la basics ; ls-la . ; ls -la /boot
+ls -la basics
+ls-la .
+ls -la /boot
