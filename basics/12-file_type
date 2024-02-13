@@ -1,2 +1,2 @@
 #!/bin/bash
-stat -c %F /tmp/iamafile
+file -b --mime-type /tmp/iamafile
