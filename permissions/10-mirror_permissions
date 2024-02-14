@@ -1,2 +1,2 @@
 #!/bin/bash
-$(stat -c %a olleh) xargs -I {} chmod {} hello
+chmod --reference=olleh hello
